@@ -25,3 +25,5 @@ hs_err_pid*
 # IDEA Files
 workspace.xml
 *.iws
+.idea/
+*.iml
